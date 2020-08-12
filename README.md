@@ -1,3 +1,3 @@
 # rakesh-test
 
-new test project
+new test project full
